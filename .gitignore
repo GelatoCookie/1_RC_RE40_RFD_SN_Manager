@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# Gradle
+.gradle/
+build/
+**/build/
+
+# IntelliJ/Android Studio
+.idea/
+*.iml
+
+# Kotlin metadata
+.kotlin/
+
+# Local SDK path
+local.properties
+
+# Logs
+*.log
